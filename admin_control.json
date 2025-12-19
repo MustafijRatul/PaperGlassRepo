@@ -20,7 +20,7 @@
   "commands": {
     "open_url": {
       "id": "cmd_001",
-      "link": "https://youtube.com" 
+      "link": "" 
     }
   }
 }
