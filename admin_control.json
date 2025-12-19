@@ -1,8 +1,8 @@
 {
   "meta": {
-    "latest_version": "10.4",
+    "latest_version": "11.1",
     "force_update": false,
-    "download_url": "https://your-website.com/download/PaperGlassPro_Setup.exe"
+    "download_url": "https://github.com/MustafijRatul/PaperGlassRepo/releases/download/v11.1/PaperGlass_Pro_Setup_v11.1.exe"
   },
   "broadcast": {
     "enabled": true,
