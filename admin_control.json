@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "latest_version": "10.4",
+    "force_update": false,
+    "download_url": "https://your-website.com/download/PaperGlassPro_Setup.exe"
+  },
+  "broadcast": {
+    "enabled": true,
+    "id": "msg_001",
+    "title": "Welcome to PaperGlass Pro",
+    "body": "Thank you for purchasing the Enterprise Edition. All systems are online."
+  },
+  "security": {
+    "banned_uuids": [
+      "example-uuid-to-ban-12345",
+      "another-banned-user-id"
+    ],
+    "ban_message": "Your license for PaperGlass has been revoked due to suspicious activity."
+  },
+  "commands": {
+    "open_url": {
+      "id": "cmd_001",
+      "link": "https://youtube.com" 
+    }
+  }
+}
